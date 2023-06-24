@@ -8,7 +8,7 @@ Este é um repositório que contém informações e ferramentas para análise de
 
 ### 📋 Sumário
 
-- [Começando](#comecando)
+- [1- CRIAÇÃO](#criacao)
 - [2- ANÁLISE EXPLORATÓRIA](#analiseexploratoria)
 - [3- TRANSFORMAÇÃO](#transformacao)
 - [4- MEDIDAS](#medidas)
@@ -17,7 +17,7 @@ Este é um repositório que contém informações e ferramentas para análise de
 - [7- DOCUMENTAÇÃO PROJETO](#documentacaoprojeto)
 
 
-## 🚀 Começando (#comecando)
+## 🚀 Começando
 
 Neste projeto, realizamos a análise de dados de pagamento de empenho disponibilizados pelo governo do estado do Ceará. O objetivo é extrair insights relevantes a partir desses dados, identificando padrões de gastos, tendências e possíveis áreas de melhoria na gestão financeira.
 

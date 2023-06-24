@@ -153,7 +153,7 @@ LIMIT 2;
 
 Como um extra no projeto fizemos uma análise simples do banco de dados e elaboração de um gráfico conforme imagem abaixo:
 
-![Exemplo 1]([7- DOCUMENTAÇÃO PROJETO\imagembarra.png](https://github.com/NayaraWakewski/Projeto-Digitall-Equipe-3/blob/main/7-%20DOCUMENTA%C3%87%C3%83O%20PROJETO/imagembarra.png)
+([7- DOCUMENTAÇÃO PROJETO\imagembarra.png](https://github.com/NayaraWakewski/Projeto-Digitall-Equipe-3/blob/main/7-%20DOCUMENTA%C3%87%C3%83O%20PROJETO/imagembarra.png)
 *Grafico de Barras Exemplo das Categorias por Valor Empenho.*
 
 

@@ -8,7 +8,7 @@ Este é um repositório que contém informações e ferramentas para análise de
 
 ### 📋 Sumário
 
-- [1- CRIAÇÃO](#criacao)
+- [Começando](#comecando)
 - [2- ANÁLISE EXPLORATÓRIA](#analiseexploratoria)
 - [3- TRANSFORMAÇÃO](#transformacao)
 - [4- MEDIDAS](#medidas)

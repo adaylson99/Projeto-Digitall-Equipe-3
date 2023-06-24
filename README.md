@@ -167,7 +167,7 @@ Para visualizar o dashboard do projeto, acessar o link abaixo:
 ## ✒️ Equipe 3 :books:
 
 
-* **Nayara Valevskii** - *Levantamento de Requisitos, modelagem do projeto, criação de medidas, powerbi e documentação* - [Data Analytics]  Github (https://github.com/NayaraWakewski) | LinkedIn (https://www.linkedin.com/in/nayaraba/)
+* **Nayara Valevskii** - *Modelagem do projeto, criação de medidas, powerbi, python e documentação* - [Data Analytics]  Github (https://github.com/NayaraWakewski) | LinkedIn (https://www.linkedin.com/in/nayaraba/)
 * **Elni Veloso** - *Modelagem do Banco de Dados, criação das dimensões e fato* - [Data Analytics]
 Github (https://github.com/ElniVeloso) | LinkedIn (https://www.linkedin.com/in/elni-veloso-191462228/)
 * **Patricia Tavares** - *Analise Exploratória, conexão banco de dados* - [Data Analytics]

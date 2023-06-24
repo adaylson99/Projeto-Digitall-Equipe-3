@@ -8,13 +8,13 @@ Este é um repositório que contém informações e ferramentas para análise de
 
 ### 📋 Sumário
 
-- [CRIAÇÃO](#criacao)
-- [ANALISE EXPLORATORIA](#analiseExploratoria)
-- [TRANSFORMAÇÃO](#transformacao)
-- [MEDIDAS](#medidas)
-- [PROJETO EM PYTHON](#projetoEmPython)
-- [DATAVIZ](#dataviz)
-- [DOCUMENTAÇÃO PROJETO](#documentacaoProjeto)
+- [1- CRIAÇÃO](#criacao)
+- [2- ANÁLISE EXPLORATÓRIA](#analiseExploratoria)
+- [3- TRANSFORMAÇÃO](#transformacao)
+- [4- MEDIDAS](#medidas)
+- [5- PROJETO EM PYTHON](#projetoEmPython)
+- [6- DATAVIZ](#dataviz)
+- [7- DOCUMENTAÇÃO PROJETO](#documentacaoProjeto)
 
 
 ## 🚀 Começando
